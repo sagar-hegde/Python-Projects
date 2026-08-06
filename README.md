@@ -1,6 +1,6 @@
 ## 💻 Python Projects
 
-A collection of Python projects demonstrating practical applications using popular libraries, frameworks, and modern development techniques.
+A collection of Python projects demonstrating practical applications using popular libraries, frameworks and modern development techniques.
 
 ## 🛠 Tech Stack
 
