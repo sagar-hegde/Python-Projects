@@ -4,7 +4,7 @@ A collection of Python projects demonstrating practical applications using popul
 
 ## 🛠 Tech Stack
 
-- Python 3.x
+- Python 3
 - Git & GitHub
 - Jupyter Notebook 
 
