@@ -21,16 +21,16 @@ No external libraries are required.
 ## Run
 
 ```bash
-python atm_simulation.py
+python atm.py
 ```
 
 ### Default Login
 
 | Username | PIN  | Balance |
 | -------- | ---- | ------: |
-| user1    | 1111 |   €1000 |
-| user2    | 2222 |   €2000 |
-| user3    | 3333 |   €3000 |
+| user1    | 1111 |   ₹1000 |
+| user2    | 2222 |   ₹2000 |
+| user3    | 3333 |   ₹3000 |
 
 ## Technologies
 
